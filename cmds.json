@@ -418,7 +418,7 @@
    ".repeatremove": "Removes a repeating message on a specified index. Use `.repeatlist` to see indexes.",
    ".repeat": "Repeat a message every `X` minutes in the current channel. You can instead specify time of day for the message to be repeated at daily (make sure you've set your server's timezone). You can have up to 5 repeating messages on the server in total.",
    ".repeatlist": "Shows currently repeating messages and their indexes.",
-   ".streamrole": "Sets a role which is monitored for streamers (FromRole), and a role to add if a user from 'FromRole' is streaming (AddRole). When a user from 'FromRole' starts streaming, they will receive an 'AddRole'. Provide no arguments to disable"",
+   ".streamrole": "Sets a role which is monitored for streamers (FromRole), and a role to add if a user from 'FromRole' is streaming (AddRole). When a user from 'FromRole' starts streaming, they will receive an 'AddRole'. Provide no arguments to disable",
    ".streamrolekw": "Sets keyword which is required in the stream's title in order for the streamrole to apply. Provide no keyword in order to reset.",
    ".streamrolebl": "Adds or removes a blacklisted user. Blacklisted users will never receive the stream role.",
    ".streamrolewl": "Adds or removes a whitelisted user. Whitelisted users will receive the stream role even if they don't have the specified keyword in their stream title.",
