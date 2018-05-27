@@ -215,7 +215,7 @@
    ".gelbooru": "Shows a random hentai image from gelbooru with a given tag. Tag is optional but preferred. (multiple tags are appended with +)",
    ".boobs": "Real adult content.",
    ".butts": "Real adult content.",
-   ".nsfwtagbl": "Toggles whether the tag is blacklisted or not in nsfw searches. Provide no parameters to see the list of blacklisted tags.",
+   ".nsfwtagbl": "Toggles whether the tag is blacklisted or not in nsfw searches. Provide no parameters to see the list of blacklisted tags."
    },
    "Permissions": {
    ".verbose": "Sets whether to show when a command/module is blocked.",
@@ -243,7 +243,7 @@
    ".chnlfilterwords": "Toggles automatic deletion of messages containing filtered words on the channel. Does not negate the `.srvrfilterwords` enabled setting. Does not affect the Bot Owner.",
    ".fw": "Adds or removes (if it exists) a word from the list of filtered words. Use`.sfw` or `.cfw` to toggle filtering.",
    ".lstfilterwords": "Shows a list of filtered words.",
-   ".resetperms": "Resets the bot's permissions module on this server to the default value.",
+   ".resetperms": "Resets the bot's permissions module on this server to the default value."
    },
    "Pokemon": {
    ".attack": "Attacks a target with the given move. Use `.movelist` to see a list of moves your type can use.",
@@ -398,7 +398,7 @@
    ".clublb": "Shows club rankings on the specified page.",
    ".xpreset": "Resets specified user's XP, or the XP of all users in the server. You can't reverse this action."
   },
-  "PRO ONLY": {
+  "ProVersion": {
    ".execsql": "Executes an sql command and returns the number of affected rows. Dangerous.",
    ".deletewaifus": "Deletes everything from WaifuUpdates and WaifuInfo tables.",
    ".deletecurrency": "Deletes everything from Currency and CurrencyTransactions.",
